@@ -8,6 +8,7 @@ Roadmaps are a great way to get a peek at what is being planned, view/make comme
  * AWS App Mesh - https://github.com/aws/aws-app-mesh-roadmap
  * AWS Elastic Beanstalk Roadmap - https://github.com/aws/elastic-beanstalk-roadmap
  * Amazon EC2 Spot Integrations Roadmap - https://github.com/aws/ec2-spot-instances-integrations-roadmap/projects/1
+ * VMware Cloud on AWS - https://cloud.vmware.com/vmc-aws/roadmap
 
 ## Disclaimer 
 This is a personal project and not affiliated with Amazon or AWS.
