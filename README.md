@@ -10,6 +10,7 @@ Roadmaps are a great way to get a peek at what is being planned, view/make comme
  * Amazon EC2 Spot Integrations Roadmap - https://github.com/aws/ec2-spot-instances-integrations-roadmap/projects/1
  * AWS Proton Roadmap - https://github.com/aws/aws-proton-public-roadmap/projects/1
  * AWS Neuron - https://github.com/aws/aws-neuron-sdk/projects/2
+ * AWS App Runner - https://github.com/aws/apprunner-roadmap/projects/1
 
 ## Disclaimer 
 This is a personal project and not affiliated with Amazon or AWS.
